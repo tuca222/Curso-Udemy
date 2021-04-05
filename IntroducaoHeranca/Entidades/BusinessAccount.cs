@@ -27,5 +27,10 @@ namespace IntroducaoHeranca.Entidades
                 Balance += amount;
             }
         }
+
+        public override void Withdraw(double amount)
+        {
+            base.Withdraw(amount);
+        }
     }
 }
