@@ -12,7 +12,7 @@ namespace IntroducaoHeranca
     {
         static void Main(string[] args)
         {
-            Account acc1 = new Account(1001, "Alex", 0);
+            Account acc1 = new Account(1001, "Alex", 0); // Classe abstrata nao pode ser instanciada
 
             BusinessAccount bacc = new BusinessAccount(1002, "Maria", 0, 500);
 
