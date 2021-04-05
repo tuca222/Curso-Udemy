@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioFixacaoPessoaFisic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploReservaHotel", "ExemploReservaHotel\ExemploReservaHotel.csproj", "{C579B55D-1E09-490C-A2C2-C4FBBFC68F5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioTratamentoDeExecoesSaque", "ExercicioTratamentoDeExecoesSaque\ExercicioTratamentoDeExecoesSaque.csproj", "{091911F2-6BDA-47B4-B266-E8D9AEF59EC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{C579B55D-1E09-490C-A2C2-C4FBBFC68F5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C579B55D-1E09-490C-A2C2-C4FBBFC68F5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C579B55D-1E09-490C-A2C2-C4FBBFC68F5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{091911F2-6BDA-47B4-B266-E8D9AEF59EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091911F2-6BDA-47B4-B266-E8D9AEF59EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091911F2-6BDA-47B4-B266-E8D9AEF59EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091911F2-6BDA-47B4-B266-E8D9AEF59EC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

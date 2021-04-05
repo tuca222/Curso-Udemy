@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExemploReservaHotel.Entities.Exceptions
+namespace ExercicioTratamentoDeExecoesSaque.Entities.Exceptions
 {
     class DomainException : ApplicationException
     {
